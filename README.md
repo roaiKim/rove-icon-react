@@ -6,7 +6,7 @@
 
 RoveIconSelector is a wrapper library based on [react-icons@^5.5.0](https://github.com/react-icons/react-icons), providing access to all its icon selections.
 
-1. Note: <span style="color: red">rove-icon-react includes the selector for all icon libraries from [react-icons@^5.5.0](https://github.com/react-icons/react-icons), so it will bundle all icons and cannot be tree-shaken.</span>
+1. Note: <span style="color: red">rove-icon-react includes the selector for all icon libraries from [react-icons@^5.5.0](https://github.com/react-icons/react-icons), so it will bundle all icons and cannot be tree-shaking.</span>
 
 2.  When using the RoveIcon component, only icons from the currently selected icon library will be loaded (with caching), while other libraries will not be loaded. However, all libraries are still bundled.
 
