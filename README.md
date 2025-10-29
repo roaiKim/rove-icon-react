@@ -223,7 +223,7 @@ The component uses the following CSS class names, which can be customized as nee
 
 The component integrates internationalization functionality (RoveContext)
 
-> Built-in English|Chinese, for other languages refer to this example
+> Built-in English|Chinese, for other languages refer to this [example](https://roaikim.github.io/rove-icon-react/?path=/story/example-rove-icon-selector--other-language)
 
 
 

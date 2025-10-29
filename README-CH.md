@@ -225,7 +225,7 @@ const handleConfirm = (state) => {​
 ## 国际化支持
 
 组件集成了国际化功能 (RoveContext)
-> 内置 英文|中文，其他语言 参考[这个例子]()
+> 内置 英文|中文，其他语言 参考[这个例子](https://roaikim.github.io/rove-icon-react/?path=/story/example-rove-icon-selector--other-language)
 
 ```ts
 function Example() {
