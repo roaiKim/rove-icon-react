@@ -172,7 +172,7 @@ Callback function triggered when confirming selection, returns the complete stat
 ```ts
 const handleConfirm = (state) => {​
   console.log('Icon selected:', state);​
-  // state 包含: lib, name, width, height, color​
+  // state includes: lib, name, width, height, color​
 };
 ```
 
